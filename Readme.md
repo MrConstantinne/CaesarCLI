@@ -18,6 +18,10 @@ $ node src -a encode -s 1
 $ node src -a encode -s 1 -i ./src/data/input.txt -o ./src/data/output.txt
 
 
+
+
+
+
 Task 1. Caesar cipher CLI tool
 Implement CLI tool that will encode and decode a text by Caesar cipher.
 
